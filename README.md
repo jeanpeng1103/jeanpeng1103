@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jeanpeng1103
 
 ### hi, i'm jean 👋
