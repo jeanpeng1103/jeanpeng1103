@@ -23,13 +23,14 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_USERNAME: jeanpeng1103
           OUTPUT: assets/contribution-graph.svg
+          HTML_OUTPUT: docs/index.html
         run: python scripts/generate_graph.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-graph.svg
+          git add assets/contribution-graph.svg docs/index.html
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

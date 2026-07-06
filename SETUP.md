@@ -42,7 +42,17 @@ The workflow needs a token to read your private commit data.
 3. In your `jeanpeng1103` repo → **Settings → Secrets and variables → Actions**
 4. Add secret: `GH_PAT` = your token
 
-## 5. Run it once manually
+## 5. Enable GitHub Pages (for hover tooltips)
+
+GitHub README embeds the SVG as a flat image — hover counts won't work there. The interactive version lives on GitHub Pages:
+
+1. Repo → **Settings → Pages**
+2. Source: **Deploy from branch** → branch `main` → folder `/docs`
+3. Save — your interactive graph will be at `https://jeanpeng1103.github.io/jeanpeng1103/`
+
+Hover any square to see the date + contribution count.
+
+## 6. Run it once manually
 
 Repo → **Actions** → **Update commit garden** → **Run workflow**
 
