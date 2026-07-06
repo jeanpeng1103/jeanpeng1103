@@ -2,12 +2,12 @@
 
 ### hi, i'm jean 👋
 
-<!-- Static preview (click through for hover counts) -->
+
 <p align="center">
-  <a href="https://jeanpeng1103.github.io/jeanpeng1103/">
-    <img src="assets/contribution-graph.svg" alt="my commit garden — click for hover counts" />
-  </a>
-  <br />
-  <sub>hover squares for daily counts → <a href="https://jeanpeng1103.github.io/jeanpeng1103/">interactive garden</a></sub>
+  <img src="assets/contribution-graph.svg" alt="my commit garden" />
 </p>
+
+  <!-- <p align="center">
+    <img src="https://github-readme-stats-one.vercel.app/api?username=jeanpeng1103&show_icons=true&count_private=true&theme=github_dark" alt="My GitHub Stats" />
+  </p> -->
 
