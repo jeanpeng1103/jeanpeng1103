@@ -32,11 +32,10 @@
 <text x="20" y="135" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Mon</text>
 <text x="20" y="167" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Wed</text>
 <text x="20" y="199" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Fri</text>
-<rect x="48" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-08: 0 contributions</title></rect>
-<rect x="48" y="124" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-09: 0 contributions</title></rect>
-<rect x="48" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-10: 0 contributions</title></rect>
-<rect x="48" y="156" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-11: 0 contributions</title></rect>
-<rect x="48" y="172" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-12: 0 contributions</title></rect>
+<rect x="48" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-09: 0 contributions</title></rect>
+<rect x="48" y="124" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-10: 0 contributions</title></rect>
+<rect x="48" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-11: 0 contributions</title></rect>
+<rect x="48" y="156" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-12: 0 contributions</title></rect>
 <rect x="64" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-13: 0 contributions</title></rect>
 <rect x="64" y="124" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-14: 0 contributions</title></rect>
 <rect x="64" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-15: 0 contributions</title></rect>
@@ -397,6 +396,7 @@
 <rect x="880" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-05: 0 contributions</title></rect>
 <rect x="880" y="124" width="13" height="13" rx="4" ry="4" fill="#7dcea0" filter="url(#soft-shadow)"><title>2026-07-06: 9 contributions</title></rect>
 <rect x="880" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-07: 0 contributions</title></rect>
+<rect x="880" y="156" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-08: 0 contributions</title></rect>
 <text x="48" y="235" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#b8a0c4">Less</text>
 <rect x="78" y="226" width="13" height="13" rx="4" fill="#fff5f8" filter="url(#soft-shadow)"/>
 <rect x="95" y="226" width="13" height="13" rx="4" fill="#d4f5e9" filter="url(#soft-shadow)"/>
