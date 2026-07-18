@@ -32,8 +32,7 @@
 <text x="20" y="135" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Mon</text>
 <text x="20" y="167" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Wed</text>
 <text x="20" y="199" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Fri</text>
-<rect x="48" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-18: 0 contributions</title></rect>
-<rect x="48" y="124" width="13" height="13" rx="4" ry="4" fill="#d4f5e9" filter="url(#soft-shadow)"><title>2025-07-19: 1 contribution</title></rect>
+<rect x="48" y="108" width="13" height="13" rx="4" ry="4" fill="#d4f5e9" filter="url(#soft-shadow)"><title>2025-07-19: 1 contribution</title></rect>
 <rect x="64" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-20: 0 contributions</title></rect>
 <rect x="64" y="124" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-21: 0 contributions</title></rect>
 <rect x="64" y="140" width="13" height="13" rx="4" ry="4" fill="#d4f5e9" filter="url(#soft-shadow)"><title>2025-07-22: 3 contributions</title></rect>
@@ -397,6 +396,7 @@
 <rect x="880" y="156" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-15: 0 contributions</title></rect>
 <rect x="880" y="172" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-16: 0 contributions</title></rect>
 <rect x="880" y="188" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-17: 0 contributions</title></rect>
+<rect x="880" y="204" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-18: 0 contributions</title></rect>
 <text x="48" y="235" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#b8a0c4">Less</text>
 <rect x="78" y="226" width="13" height="13" rx="4" fill="#fff5f8" filter="url(#soft-shadow)"/>
 <rect x="95" y="226" width="13" height="13" rx="4" fill="#d4f5e9" filter="url(#soft-shadow)"/>
