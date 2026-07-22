@@ -11,7 +11,7 @@
 <rect width="913" height="301" rx="16" fill="url(#bg)" stroke="#f5c6e0" stroke-width="1.5"/>
 <text x="20" y="42" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', system-ui, sans-serif" font-size="18" font-weight="700" fill="#6b4c7a">🌱 commit garden</text>
 <text x="20" y="66" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', system-ui, sans-serif" font-size="13" fill="#9b7fa8">
-56 contributions in the last year
+53 contributions in the last year
 </text>
 <text x="20" y="84" font-family="ui-rounded, 'SF Pro Rounded', 'Nunito', system-ui, sans-serif" font-size="11" fill="#b8a0c4">
 🔥 0 day streak  ·  🏆 best 3 days
@@ -32,11 +32,10 @@
 <text x="20" y="135" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Mon</text>
 <text x="20" y="167" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Wed</text>
 <text x="20" y="199" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#c4a8d4">Fri</text>
-<rect x="48" y="108" width="13" height="13" rx="4" ry="4" fill="#d4f5e9" filter="url(#soft-shadow)"><title>2025-07-22: 3 contributions</title></rect>
-<rect x="48" y="124" width="13" height="13" rx="4" ry="4" fill="#d4f5e9" filter="url(#soft-shadow)"><title>2025-07-23: 1 contribution</title></rect>
-<rect x="48" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-24: 0 contributions</title></rect>
-<rect x="48" y="156" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-25: 0 contributions</title></rect>
-<rect x="48" y="172" width="13" height="13" rx="4" ry="4" fill="#a8e6cf" filter="url(#soft-shadow)"><title>2025-07-26: 4 contributions</title></rect>
+<rect x="48" y="108" width="13" height="13" rx="4" ry="4" fill="#d4f5e9" filter="url(#soft-shadow)"><title>2025-07-23: 1 contribution</title></rect>
+<rect x="48" y="124" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-24: 0 contributions</title></rect>
+<rect x="48" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-25: 0 contributions</title></rect>
+<rect x="48" y="156" width="13" height="13" rx="4" ry="4" fill="#a8e6cf" filter="url(#soft-shadow)"><title>2025-07-26: 4 contributions</title></rect>
 <rect x="64" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-27: 0 contributions</title></rect>
 <rect x="64" y="124" width="13" height="13" rx="4" ry="4" fill="#d4f5e9" filter="url(#soft-shadow)"><title>2025-07-28: 3 contributions</title></rect>
 <rect x="64" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2025-07-29: 0 contributions</title></rect>
@@ -397,6 +396,7 @@
 <rect x="880" y="108" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-19: 0 contributions</title></rect>
 <rect x="880" y="124" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-20: 0 contributions</title></rect>
 <rect x="880" y="140" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-21: 0 contributions</title></rect>
+<rect x="880" y="156" width="13" height="13" rx="4" ry="4" fill="#fff5f8" filter="url(#soft-shadow)"><title>2026-07-22: 0 contributions</title></rect>
 <text x="48" y="235" font-family="ui-rounded, system-ui, sans-serif" font-size="10" fill="#b8a0c4">Less</text>
 <rect x="78" y="226" width="13" height="13" rx="4" fill="#fff5f8" filter="url(#soft-shadow)"/>
 <rect x="95" y="226" width="13" height="13" rx="4" fill="#d4f5e9" filter="url(#soft-shadow)"/>
